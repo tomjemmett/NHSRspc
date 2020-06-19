@@ -1,0 +1,19 @@
+Package: NHSRspc
+Type: Package
+Title: NHS-R SPC
+Version: 0.0.1.9000
+Authors@R: c(
+    person("Tom", "Jemmett", , "thomas.jemmett@nhs.net", c("aut", "cre"), comment = c(ORCID="0000-0002-6943-2990")),
+    person("NHS-R community", email = "nhs.rcommunity@nhs.net", role = "cph")
+    )
+Maintainer: Tom Jemmett <thomas.jemmett@nhs.net>
+Description: This package provides a modern approach to Statistical Process Control in R.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    devtools (>= 2.3.0),
+    usethis (>= 1.6.1)
+Imports: 
+    ggplot2 (>= 3.3.1),
+    vctrs (>= 0.3.1)
