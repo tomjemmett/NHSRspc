@@ -13,7 +13,8 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     devtools (>= 2.3.0),
-    usethis (>= 1.6.1)
+    usethis (>= 1.6.1),
+    rmarkdown
 Imports: 
     ggplot2 (>= 3.3.1),
     vctrs (>= 0.3.1)
