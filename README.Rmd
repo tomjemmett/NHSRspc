@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file then run knitr::knit("Readme.Rmd") -->
+<!-- README.md is generated from README.Rmd. Please edit that file-->
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
@@ -17,8 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
-![](
-https://github.com/tomjemmett/NHSRspc/workflows/R-CMD-check/badge.svg)
+![](https://github.com/tomjemmett/NHSRspc/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 NHS-R SPC aims to provide functions for calculating SPC limits on a vector, apply rules to test for Special Cause 
