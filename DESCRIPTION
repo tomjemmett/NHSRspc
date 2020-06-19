@@ -17,3 +17,5 @@ Suggests:
 Imports: 
     ggplot2 (>= 3.3.1),
     vctrs (>= 0.3.1)
+URL: https://github.com/tomjemmett/NHSRspc
+BugReports: https://github.com/tomjemmett/NHSRspc/issues
