@@ -19,6 +19,12 @@ Suggests:
     mockery
 Imports: 
     ggplot2 (>= 3.3.1),
-    vctrs (>= 0.3.1)
+    vctrs (>= 0.3.1),
+    rlang (>= 0.4.6),
+    pillar,
+    crayon,
+    purrr,
+    methods
 URL: https://github.com/tomjemmett/NHSRspc
 BugReports: https://github.com/tomjemmett/NHSRspc/issues
+RoxygenNote: 7.1.1
