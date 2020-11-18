@@ -8,7 +8,7 @@ Authors@R: c(
     )
 Maintainer: Tom Jemmett <thomas.jemmett@nhs.net>
 Description: This package provides a modern approach to Statistical Process Control in R.
-License: MIT + file LICENSE
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Suggests: 
